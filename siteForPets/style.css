@@ -59,3 +59,15 @@ html {
     align-items: center;
     justify-content: center;
     width: 18%;/ */
+
+    .descriptions {
+      display: flex;
+    }
+  ul {
+    display: inline;
+    list-style-type: none;
+  }
+  #addPet {
+    position: absolute;
+    top: -1;
+  }
