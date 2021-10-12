@@ -1,12 +1,22 @@
-var img1 = document.createElement("img");
-img1.src= "/images/1.jpg"
 let gridDiv = document.querySelector(".grid")
-gridDiv.appendChild(img1);
+
+for(i=0; i<petData.length; i++) {
+    let imageA = document.createElement("a");
+    let photo = document.createElement("img");
+    photo.src = "/images/"+petData[i].image;
+    imageA.appendChild(photo);
+    imageA.href= "view.html?id="+petData[i].id;
+    imageA.target="_blank";
+    imageA.innerHTML
+    gridDiv.appendChild(imageA);
+}
 
 
 
 
-/*document.write(imagesrc);*/
+
+
+
 
 
 
