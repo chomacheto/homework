@@ -1,0 +1,35 @@
+https://devdocs.io/ - Huge web dev documentation 
+
+https://fontawesome.com/ - Fonts & Icons
+
+https://fonts.google.com/ - Google fonts
+
+https://unsplash.com/ - Free images 
+
+https://pexels.com/ - Free images 2
+
+https://pngtree.com/ - Free PNGS
+
+https://uigradients.com/ - CSS Gradient generator
+
+https://dribbble.com/ - Website ideas
+
+https://www.awwwards.com/ - Website ideas 2
+
+https://colorhunt.co/ - Colour palettes
+
+https://color.adobe.com/create/color-wheel - Colour palette maker
+
+https://shapefest.com/ - Shape pngs
+
+https://wannathis.one/ - 3D Shapes
+
+https://undraw.co/ - Free illustrations
+
+https://devhints.io/react - React Cheat Sheet
+
+https://www.frontendmentor.io/ - Project Ideas
+
+https://element.eleme.io/#/en-US/component/button - CSS Framework [VUE]
+
+https://material-ui.com/components/buttons/ - CSS Framework [React] 
